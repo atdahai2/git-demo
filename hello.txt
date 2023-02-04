@@ -12,6 +12,6 @@ hello, git
 hello, git
 hello, git
 hello, git
-hello, git
+hello, git  hello master
 hello, gi  
-hello, git  01010101
+hello, git  hello master
